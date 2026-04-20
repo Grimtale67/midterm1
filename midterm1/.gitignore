@@ -1,0 +1,19 @@
+# 1. 依賴套件
+node_modules/
+
+# 2. 系統暫存檔
+.DS_Store
+Thumbs.db
+*.swp
+
+# 3. 日誌紀錄檔
+*.log
+npm-debug.log*
+
+# 4. 環境變數
+.env
+.env.local
+
+# 5. 編譯產生的資料夾
+dist/
+build/
